@@ -1,4 +1,4 @@
-# 🚀 Idea to Prompt Generator
+#  Idea to Prompt Generator
 
 A full-stack web application that converts user ideas into **AI-generated prompts** using **Google Gemini API**.
 It includes **user authentication (JWT, bcrypt)**, a **frontend UI (HTML, TailwindCSS, JavaScript)**, and a **backend server (Node.js, Express.js, MySQL)**.
@@ -115,9 +115,9 @@ This project is licensed under the **MIT License**.
 
 ```
 ├── index.html          # Main app interface
-├── loginpage.html      # Login & Sign Up page
+├── login.html          # Login & Sign Up page
+├── package lock.json   
+├── package.json       
 ├── server.js           # Backend server with API routes
-├── database.sql        # MySQL schema for users
-├── .env                # API keys and secrets
 └── README.md           # Project documentation
 ```
