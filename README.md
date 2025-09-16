@@ -4,7 +4,7 @@ A full-stack web application that converts user ideas into **AI-generated prompt
 It includes **user authentication (JWT, bcrypt)**, a **frontend UI (HTML, TailwindCSS, JavaScript)**, and a **backend server (Node.js, Express.js, MySQL)**.
 
 ---
-
+![image alt](https://github.com/sudip17x/Idea2Prompt/blob/69cf4f93ee0dc0708f763c743a667c7b28d38462/Screenshot%202025-09-17%20020902.jpg)
 ## ✨ Features
 
 * 🔐 **User Authentication** (Sign Up, Login, Logout) with JWT & bcrypt
